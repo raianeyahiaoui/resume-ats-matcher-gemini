@@ -6,7 +6,7 @@ Built with **Gemini Pro Vision**, it parses resumes, extracts job requirements, 
 ---
 
 ## 📸 Demo Screenshot
-![Automatic Applicant Tracking System (ATS)](assets/Automatic%20Applicant%20Tracking%20System%20(ATS).png)
+![Automatic Applicant Tracking System (ATS)](Automatic%20Applicant%20Tracking%20System%20(ATS).png)
 
 ---
 
